@@ -44,7 +44,7 @@ Utilizado com meu login
                                 'Site Cloner'
     d. Configure o clonador de site
       Insira o IP da sua máquina (ou use ngrok – ver passo 6)
-      URL a ser clonada: https://www.facebook.com/login/
+      URL a ser clonada: https://www.xxxxxx.com/login/
       ⚠️ Apenas para simulação. Em produção real, isso violaria termos de serviço e leis. 
     e. Inicie o servidor web local
       O SET inicia automaticamente o Apache. Verifique:
